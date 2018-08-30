@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Problem_Solver</string>
+    <string-array name="monument">
+        <item></item>
+        <item>Farmer,Wolf,Goat,Cabbage</item>
+        <item>8-Puzzle Problem</item>
+    </string-array>
+</resources>
